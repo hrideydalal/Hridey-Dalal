@@ -5,9 +5,34 @@ Computer Science Graduate | AI & Computer Vision Enthusiast | Patent Holder | Ce
 
 ---
 
-## 🧠 Summary
+## 🧠 About Me
 
-I'm a tech-driven engineer passionate about building intelligent, gesture-controlled, and vision-based systems. With a solid foundation in full-stack development and applied AI, I build solutions that bridge the gap between human intuition and machine capability.
+I'm a tech-driven engineer passionate about building intelligent, gesture-controlled, and vision-based systems.  
+With a foundation in both development and software testing, I bridge quality assurance and smart user experiences.
+
+---
+
+## 👩‍💻 Work & Internship Experience
+
+- 💼 **SDET at HCL Technologies**  
+  *April 2025 – Present*  
+  Designing and executing test cases, reporting bugs, collaborating with QA and development teams.
+
+- 🧠 **Cyber Security Intern – inGrade, Noida**  
+  *Jan 2025 – Mar 2025*  
+  Vulnerability scanning with Burp Suite, penetration testing, and policy recommendations.
+
+- 💻 **Frontend Developer Intern – Shahnaz Ayurvedics Pvt. Ltd, Delhi**  
+  *May 2024 – Jul 2024*  
+  Developed responsive login/signup UIs using HTML, CSS, JavaScript.
+
+- 🔐 **Cyber Security Intern – Ess Life Science Pvt. Ltd**  
+  *Jun 2022 – Aug 2022*  
+  Learned cybersecurity fundamentals and network analytics for threat mitigation.
+
+- 📞 **Inside Sales Intern – Kratikal Tech Pvt. Ltd, Noida**  
+  *Oct 2024 – Dec 2024*  
+  Client engagement, CRM management, and revenue generation.
 
 ---
 
@@ -39,25 +64,46 @@ I'm a tech-driven engineer passionate about building intelligent, gesture-contro
 
 ## 📜 Certifications
 
-- ✅ **Introduction to Cybersecurity** – Cisco Networking Academy  
-- ✅ **Software Testing Virtual Experience** – TCS iON  
-- ✅ **Machine Learning Internship** – Internshala  
-- ✅ **OpenCV Projects** – Udemy  
-- ✅ **Git & GitHub** – Great Learning  
-- ✅ **Python for Beginners** – Infosys Springboard
+- **Oracle**  
+  - Artificial Intelligence with Machine Learning  
+  - Java Fundamentals  
+  - Database Foundations
+
+- **NPTEL**  
+  - Soft Skill Development  
+  - Team Effectiveness  
+  - Innovation, Business Models and Entrepreneurship  
+  - Strategy: An Introduction to Game Theory  
+  - Non-conventional Energy Resources
+
+- **TryHackMe**  
+  - Security Learning Path
+
+- **Udemy**  
+  - Website Hacking & Penetration Testing  
+  - Ethical Hacking Complete Course  
+  - Network Hacking Fundamentals
+
+---
+
+## 🧾 Patent
+
+**"A Hand Gesture-Based Virtual Keyboard"**  
+Filed under *The Patents Act, 1970* by Sharda University in **June 2025**  
+> Enables touchless typing using webcam-based hand gesture recognition mapped to a dynamic virtual keyboard interface.
 
 ---
 
 ## 🛠 Tech Stack
 
 ```text
-Languages   : Python, JavaScript, SQL  
+Languages   : Python, JavaScript, C++, HTML/CSS  
 CV Tools    : OpenCV, cvzone, MediaPipe, PyAutoGUI  
 Frontend    : React, HTML5, CSS3  
 Backend     : Node.js, Express.js  
 Database    : MySQL  
-Tools       : Git, npm, Postman, PyCharm, VS Code  
-Testing     : Manual Testing, Test Cases, Bug Reporting
+QA Tools    : Manual Testing, Test Case Writing, Bug Reporting, Jira, Burp Suite  
+Misc        : Git, Postman, VS Code, PyCharm
 ```
 
 ---
@@ -68,10 +114,19 @@ Testing     : Manual Testing, Test Cases, Bug Reporting
 
 ---
 
+## 🎯 Goals
+
+- Contribute to open-source AI projects  
+- Build intelligent testing frameworks  
+- Publish more research on gesture-based HCI  
+- Become a full-stack automation expert
+
+---
+
 ## 📫 Connect with Me
 
-- 📧 [hrideydalal1@gmail.com](mailto:hrideydalal1@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/hridey-/)
+- 📧 Email: [hrideydalal1@gmail.com](mailto:hrideydalal1@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/hridey-](https://www.linkedin.com/in/hridey-/)
 
 ---
 
